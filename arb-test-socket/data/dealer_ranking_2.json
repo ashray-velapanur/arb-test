@@ -1,0 +1,17 @@
+[
+{'Dealer ID': 43569, 'Hands Per Hour': 84.39, 'Difference from Casino Avg': 61.25, 'Total Hands': 790.0},
+{'Dealer ID': 20641, 'Hands Per Hour': 80.49, 'Difference from Casino Avg': 57.35, 'Total Hands': 320.0},
+{'Dealer ID': 3624, 'Hands Per Hour': 76.69, 'Difference from Casino Avg': 53.55, 'Total Hands': 883.0},
+{'Dealer ID': 40540, 'Hands Per Hour': 73.03, 'Difference from Casino Avg': 49.88, 'Total Hands': 871.0},
+{'Dealer ID': 21029, 'Hands Per Hour': 72.94, 'Difference from Casino Avg': 49.8, 'Total Hands': 336.0},
+{'Dealer ID': 48475, 'Hands Per Hour': 66.52, 'Difference from Casino Avg': 43.37, 'Total Hands': 171.0},
+{'Dealer ID': 40684, 'Hands Per Hour': 57.92, 'Difference from Casino Avg': 34.77, 'Total Hands': 232.0},
+{'Dealer ID': 25579, 'Hands Per Hour': 50.46, 'Difference from Casino Avg': 27.32, 'Total Hands': 556.0},
+{'Dealer ID': 25620, 'Hands Per Hour': 19.6, 'Difference from Casino Avg': -3.54, 'Total Hands': 864.0},
+{'Dealer ID': 47278, 'Hands Per Hour': 14.39, 'Difference from Casino Avg': -8.75, 'Total Hands': 201.0},
+{'Dealer ID': 8959, 'Hands Per Hour': 6.56, 'Difference from Casino Avg': -16.58, 'Total Hands': 269.0},
+{'Dealer ID': 6047, 'Hands Per Hour': 5.79, 'Difference from Casino Avg': -17.35, 'Total Hands': 97.0},
+{'Dealer ID': 14300, 'Hands Per Hour': 2.2, 'Difference from Casino Avg': -20.94, 'Total Hands': 89.0},
+{'Dealer ID': 4687, 'Hands Per Hour': 0.0, 'Difference from Casino Avg': -23.14, 'Total Hands': 0.0},
+{'Dealer ID': 20785, 'Hands Per Hour': 0.0, 'Difference from Casino Avg': -23.14, 'Total Hands': 0.0}
+]

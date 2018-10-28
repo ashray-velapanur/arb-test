@@ -1,0 +1,14 @@
+<div class="container">
+  <select (change)="onChange($event.target.value)">
+    <option value="" disabled selected>Select a file</option>
+    <option *ngFor="let file of fileNames">{{file}}</option>
+  </select>
+
+  <table>
+    <tr *ngFor="let row of tableData">
+      <td *ngFor="let cell of row">
+        {{ cell }}
+      </td>
+    </tr>
+  </table>
+</div>
